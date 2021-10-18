@@ -30,3 +30,5 @@ for (let index = 0; index < konutkredileri.length; index++) {
   console.log("<li>" + konutkredileri[index] + "</li>");
 }
 console.log(konutkredileri);
+
+console.log("DENEME");
